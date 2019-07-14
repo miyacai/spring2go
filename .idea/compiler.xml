@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AuthCodeApp" />
+        <module name="authcodeserver" />
+        <module name="clientresttemplate" />
+        <module name="clientserver" />
+        <module name="implicitserver" />
+        <module name="jwtauthserver" />
+        <module name="jwtresourceserver" />
+        <module name="mobileauthserver" />
+        <module name="oauthresource" />
+        <module name="oauthserver" />
+        <module name="passwordserver" />
+        <module name="socialgithub" />
+        <module name="stateclient" />
+        <module name="stateoauth2server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="oauthuiimplicit" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/oauth2learn/learn02/client-resttemplate/src/main/resources/db/oauth_client.sql" dialect="MySQL" />
+  </component>
+</project>
